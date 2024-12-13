@@ -24,5 +24,5 @@ def hello():
 
 ## Links and Images
 
-[](https://www.google.com)
-![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_light_color_272x92dp.png)
+[Google](https://www.google.com)
+![](https://www.google.com/images/branding/googlelogo/2x/googlelogo_dark_color_272x92dp.png)
