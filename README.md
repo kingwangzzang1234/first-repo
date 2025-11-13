@@ -22,6 +22,8 @@ $ python main.py
 
 $$e^{i*theta} = \\cos(theta) + i*sin(theta)$$
 
+$e^{i\theta} = \cos\theta + i\sin\theta$
+
 ## Installation
 
 There is no installation.
