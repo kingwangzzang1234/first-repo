@@ -8,6 +8,7 @@ See [Demo](https://www.google.com/)
 - Python^3.11
 - Pandas==2.33
 - Numpy
+- Pandas
 
 ## How to Start
 
@@ -39,4 +40,3 @@ def hello(name: str) -> str:
 if __name__ == '__main__':
     print(hello('John')
 ```
-
